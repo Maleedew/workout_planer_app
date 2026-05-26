@@ -1,4 +1,4 @@
-<h1>workout_planer</h1>
+<h1 color=red >workout_planer</h1>
 
 A new Flutter project.
 
